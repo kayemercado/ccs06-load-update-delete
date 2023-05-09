@@ -1,0 +1,17 @@
+{
+    "name": "kayemercado/ccs06-load-update-delete",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaye Celuch T. Mercado",
+            "email": "mercado.kayeceluch@auf.edu.ph"
+        }
+    ]
+}
